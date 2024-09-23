@@ -1,0 +1,30 @@
+1. User Authentication
+   - Verify Identity
+   - Differentiate User Roles
+
+2. Main Menu
+   - Academic Information
+     - Course Registration
+     - Grades and Transcripts
+     - Academic Calendar
+   - Campus Services
+     - Library Resources
+     - IT Support
+     - Campus Map
+     - Housing Information
+   - Events and Announcements
+     - Upcoming Events
+     - Important Announcements
+     - Clubs and Organizations
+   - FAQs
+     - General FAQs
+     - Department-specific FAQs
+     - Chat with Human Agent
+   - Contact Information
+     - Department Contacts
+     - Emergency Contacts
+     - Feedback and Support
+   - Settings
+     - Personalize Preferences
+     - Change Language
+     - Update Profile Information
