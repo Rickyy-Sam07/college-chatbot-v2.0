@@ -1,0 +1,9 @@
+numpy
+pandas
+zipfile
+json
+tensorflow
+google-api-python-client
+pickle
+random
+sklearn
